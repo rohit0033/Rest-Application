@@ -16,7 +16,7 @@ A web-based REST client application similar to POSTMAN, built using React, Expre
 
 - **Frontend**: React, Tailwind CSS, Vite
 - **Backend**: Express
-- **Database**: SQLite (using Prisma ORM)
+- **Database**: PostgresSQL (using Prisma ORM)
 
 ## Installation
 
